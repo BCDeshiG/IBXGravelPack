@@ -1,2 +1,4 @@
-*.fsb
 textures/items/
+
+*.fsb
+*.lnk
