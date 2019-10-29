@@ -3,16 +3,16 @@
     "header": {
         "description": "The best one ever",
         "name": "The Resource Pack",
-        "uuid": "8290ce0f-774f-4e69-9858-3f55baee785d",
-        "version": [1, 12, 0],
+        "uuid": "f5126c4a-7af5-4aa4-8975-8d3e59d641ed",
+        "version": [1, 13, 0],
         "min_engine_version": [1, 2, 6]
     },
     "modules": [
         {
             "description": "resource pack",
             "type": "resources",
-            "uuid": "15a6008b-28fd-4c18-badf-7677d1fdd269",
-            "version": [1, 12, 0]
+            "uuid": "ca4027db-6b76-4352-aea4-a69ef8728862",
+            "version": [1, 13, 0]
         }
     ]
 }
