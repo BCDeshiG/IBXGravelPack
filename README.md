@@ -1,5 +1,5 @@
 # IBX Gravel Pack
-- Gravel Resource Pack for MC Bedrock 1.13
+- Gravel Resource Pack for MC Bedrock 1.14
 - Yes, it makes everything look like Minecraft gravel.
 - Also yes, I used Github to keep track of changes.
 
