@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 4,
+  "texture_data": {
+    "flowing_lava": {
+      "quad": 1,
+      "textures": {
+        "path": "textures/blocks/lava_flow",
+        "pbr_emissive": 0.01
+      }
+    },
+    "still_lava": {
+      "textures": {
+        "path": "textures/blocks/lava_still",
+        "pbr_emissive": 0.01
+      }
+    }
+  }
+}
