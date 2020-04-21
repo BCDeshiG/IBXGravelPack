@@ -1,18 +1,19 @@
 {
-    "format_version": 1,
+    "format_version": 2,
     "header": {
         "description": "The best one ever",
         "name": "The Resource Pack",
-        "uuid": "54e2f50a-85cd-47d3-bba2-b00c49406dac",
-        "version": [1, 14, 0],
-        "min_engine_version": [1, 2, 6]
+        "uuid": "dddddddd-85cd-47d3-bba2-b00c49406dac",
+        "version": [1, 15, 0],
+        "min_engine_version": [1, 15, 0]
     },
     "modules": [
         {
             "description": "resource pack",
             "type": "resources",
-            "uuid": "1ba83e5d-ddcc-4fac-bf43-fa9891309868",
+            "uuid": "dddddddd-ddcc-4fac-bf43-fa9891309868",
             "version": [1, 14, 0]
         }
-    ]
+    ],
+    "capabilities": ["raytraced"]
 }
