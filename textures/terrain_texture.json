@@ -1,0 +1,62 @@
+{
+   "num_mip_levels" : 4,
+   "padding" : 8,
+   "resource_pack_name" : "vanilla",
+   "texture_data" : {
+      "crimson_door_lower" : {
+         "textures" : "textures/blocks/crimson_door_lower"
+      },
+      "crimson_door_top" : {
+         "textures" : "textures/blocks/crimson_door_top"
+      },
+      "crimson_log_side" : {
+         "textures" : "textures/blocks/crimson_log_side"
+      },
+      "crimson_log_top" : {
+         "textures" : "textures/blocks/crimson_log_top"
+      },
+      "crimson_planks" : {
+         "textures" : "textures/blocks/crimson_planks"
+      },
+      "crimson_sign" : {
+         "textures" : "textures/blocks/crimson_planks"
+      },
+      "crimson_trapdoor" : {
+         "textures" : "textures/blocks/crimson_trapdoor"
+      },
+      "stripped_crimson_stem_side" : {
+         "textures" : "textures/blocks/stripped_crimson_stem_side"
+      },
+      "stripped_crimson_stem_top" : {
+         "textures" : "textures/blocks/stripped_crimson_stem_top"
+      },
+      "stripped_warped_stem_side" : {
+         "textures" : "textures/blocks/stripped_warped_stem_side"
+      },
+      "stripped_warped_stem_top" : {
+         "textures" : "textures/blocks/stripped_warped_stem_top"
+      },
+      "warped_door_lower" : {
+         "textures" : "textures/blocks/warped_door_lower"
+      },
+      "warped_door_top" : {
+         "textures" : "textures/blocks/warped_door_top"
+      },
+      "warped_planks" : {
+         "textures" : "textures/blocks/warped_planks"
+      },
+      "warped_sign" : {
+         "textures" : "textures/blocks/warped_planks"
+      },
+      "warped_stem_side" : {
+         "textures" : "textures/blocks/warped_stem_side"
+      },
+      "warped_stem_top" : {
+         "textures" : "textures/blocks/warped_stem_top"
+      },
+      "warped_trapdoor" : {
+         "textures" : "textures/blocks/warped_trapdoor"
+      }
+   },
+   "texture_name" : "atlas.terrain"
+}
