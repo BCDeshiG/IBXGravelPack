@@ -1,8 +1,8 @@
 {
     "format_version": 2,
     "header": {
-        "description": "pack.description",
-        "name": "pack.name",
+        "name": "IBXGravelPack",
+        "description": "'Definitely the coolest pack!' - Your mum",
         "uuid": "ba2b04fa-2975-4d2a-9ba1-424baff3a035",
         "version": [1, 16, 0],
         "min_engine_version": [ 1, 16, 0 ]
