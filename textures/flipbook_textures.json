@@ -1,0 +1,12 @@
+[
+  {
+    "flipbook_texture": "textures/blocks/crimson_log_side",
+    "atlas_tile": "crimson_log_side",
+    "ticks_per_frame": 15
+  },
+  {
+    "flipbook_texture": "textures/blocks/warped_stem_side",
+    "atlas_tile": "warped_stem_side",
+    "ticks_per_frame": 15
+  }
+]

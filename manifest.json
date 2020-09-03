@@ -1,18 +1,17 @@
 {
     "format_version": 2,
     "header": {
-        "description": "The best one ever",
-        "name": "The Resource Pack",
-        "uuid": "dddddddd-85cd-47d3-bba2-b00c49406dac",
-        "version": [1, 15, 0],
-        "min_engine_version": [1, 15, 0]
+        "name": "IBXGravelPack",
+        "description": "'Definitely the coolest pack!' - Your mum",
+        "uuid": "dddddddd-2975-4d2a-9ba1-424baff3a035",
+        "version": [1, 16, 0],
+        "min_engine_version": [1, 16, 0]
     },
     "modules": [
         {
-            "description": "resource pack",
             "type": "resources",
-            "uuid": "dddddddd-ddcc-4fac-bf43-fa9891309868",
-            "version": [1, 14, 0]
+            "uuid": "dddddddd-81be-46b6-867b-2b73937ed3a4",
+            "version": [1, 16, 0]
         }
     ],
     "capabilities": ["raytraced"]
