@@ -61,14 +61,12 @@
         "flowing_lava": {
             "quad": 1,
             "textures": {
-                "path": "textures/blocks/lava_flow",
-                "pbr_emissive": 0.01
+                "path": "textures/blocks/lava_flow"
             }
         },
         "still_lava": {
             "textures": {
-                "path": "textures/blocks/lava_still",
-                "pbr_emissive": 0.01
+                "path": "textures/blocks/lava_still"
             }
         }
     }
