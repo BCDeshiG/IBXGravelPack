@@ -56,6 +56,57 @@
       },
       "warped_trapdoor" : {
          "textures" : "textures/blocks/warped_trapdoor"
+      },
+      "chiseled_deepslate" : {
+         "textures" : "textures/blocks/chiseled_deepslate"
+      },
+      "cobbled_deepslate" : {
+         "textures" : "textures/blocks/cobbled_deepslate"
+      },
+      "cracked_deepslate_bricks" : {
+         "textures" : "textures/blocks/cracked_deepslate_bricks"
+      },
+      "cracked_deepslate_tiles" : {
+         "textures" : "textures/blocks/cracked_deepslate_tiles"
+      },
+      "deepslate" : {
+         "textures" : "textures/blocks/deepslate"
+      },
+      "deepslate_bricks" : {
+         "textures" : "textures/blocks/deepslate_bricks"
+      },
+      "deepslate_coal_ore" : {
+         "textures" : "textures/blocks/deepslate_coal_ore"
+      },
+      "deepslate_copper_ore" : {
+         "textures" : "textures/blocks/deepslate_copper_ore"
+      },
+      "deepslate_diamond_ore" : {
+         "textures" : "textures/blocks/deepslate_diamond_ore"
+      },
+      "deepslate_emerald_ore" : {
+         "textures" : "textures/blocks/deepslate_emerald_ore"
+      },
+      "deepslate_gold_ore" : {
+         "textures" : "textures/blocks/deepslate_gold_ore"
+      },
+      "deepslate_iron_ore" : {
+         "textures" : "textures/blocks/deepslate_iron_ore"
+      },
+      "deepslate_lapis_ore" : {
+         "textures" : "textures/blocks/deepslate_lapis_ore"
+      },
+      "deepslate_redstone_ore" : {
+         "textures" : "textures/blocks/deepslate_redstone_ore"
+      },
+      "deepslate_tiles" : {
+         "textures" : "textures/blocks/deepslate_tiles"
+      },
+      "deepslate_top" : {
+         "textures" : "textures/blocks/deepslate_top"
+      },
+      "polished_deepslate" : {
+         "textures" : "textures/blocks/polished_deepslate"
       }
    },
    "texture_name" : "atlas.terrain"
