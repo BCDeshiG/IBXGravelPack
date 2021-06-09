@@ -13,6 +13,5 @@
             "uuid": "deaddead-81be-46b6-867b-2b73937ed3a4",
             "version": [1, 17, 0]
         }
-    ],
-    "capabilities": ["raytraced"]
+    ]
 }
