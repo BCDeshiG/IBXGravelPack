@@ -107,6 +107,159 @@
       },
       "polished_deepslate" : {
          "textures" : "textures/blocks/polished_deepslate"
+      },
+      "black_candle" : {
+         "textures" : [
+            "textures/blocks/black_candle",
+            "textures/blocks/black_candle_lit"
+         ]
+      },
+      "black_candle_carried" : {
+         "textures" : "textures/items/black_candle"
+      },
+      "blue_candle" : {
+         "textures" : [
+            "textures/blocks/blue_candle",
+            "textures/blocks/blue_candle_lit"
+         ]
+      },
+      "blue_candle_carried" : {
+         "textures" : "textures/items/blue_candle"
+      },
+      "brown_candle" : {
+         "textures" : [
+            "textures/blocks/brown_candle",
+            "textures/blocks/brown_candle_lit"
+         ]
+      },
+      "brown_candle_carried" : {
+         "textures" : "textures/items/brown_candle"
+      },
+      "candle" : {
+         "textures" : [
+            "textures/blocks/candle",
+            "textures/blocks/candle_lit"
+         ]
+      },
+      "candle_carried" : {
+         "textures" : "textures/items/candle"
+      },
+      "cyan_candle" : {
+         "textures" : [
+            "textures/blocks/cyan_candle",
+            "textures/blocks/cyan_candle_lit"
+         ]
+      },
+      "cyan_candle_carried" : {
+         "textures" : "textures/items/cyan_candle"
+      },
+      "gray_candle" : {
+         "textures" : [
+            "textures/blocks/gray_candle",
+            "textures/blocks/gray_candle_lit"
+         ]
+      },
+      "gray_candle_carried" : {
+         "textures" : "textures/items/gray_candle"
+      },
+      "green_candle" : {
+         "textures" : [
+            "textures/blocks/green_candle",
+            "textures/blocks/green_candle_lit"
+         ]
+      },
+      "green_candle_carried" : {
+         "textures" : "textures/items/green_candle"
+      },
+      "light_blue_candle" : {
+         "textures" : [
+            "textures/blocks/light_blue_candle",
+            "textures/blocks/light_blue_candle_lit"
+         ]
+      },
+      "light_blue_candle_carried" : {
+         "textures" : "textures/items/light_blue_candle"
+      },
+      "light_gray_candle" : {
+         "textures" : [
+            "textures/blocks/light_gray_candle",
+            "textures/blocks/light_gray_candle_lit"
+         ]
+      },
+      "light_gray_candle_carried" : {
+         "textures" : "textures/items/light_gray_candle"
+      },
+      "lime_candle" : {
+         "textures" : [
+            "textures/blocks/lime_candle",
+            "textures/blocks/lime_candle_lit"
+         ]
+      },
+      "lime_candle_carried" : {
+         "textures" : "textures/items/lime_candle"
+      },
+      "magenta_candle" : {
+         "textures" : [
+            "textures/blocks/magenta_candle",
+            "textures/blocks/magenta_candle_lit"
+         ]
+      },
+      "magenta_candle_carried" : {
+         "textures" : "textures/items/magenta_candle"
+      },
+      "orange_candle" : {
+         "textures" : [
+            "textures/blocks/orange_candle",
+            "textures/blocks/orange_candle_lit"
+         ]
+      },
+      "orange_candle_carried" : {
+         "textures" : "textures/items/orange_candle"
+      },
+      "pink_candle" : {
+         "textures" : [
+            "textures/blocks/pink_candle",
+            "textures/blocks/pink_candle_lit"
+         ]
+      },
+      "pink_candle_carried" : {
+         "textures" : "textures/items/pink_candle"
+      },
+      "purple_candle" : {
+         "textures" : [
+            "textures/blocks/purple_candle",
+            "textures/blocks/purple_candle_lit"
+         ]
+      },
+      "purple_candle_carried" : {
+         "textures" : "textures/items/purple_candle"
+      },
+      "red_candle" : {
+         "textures" : [
+            "textures/blocks/red_candle",
+            "textures/blocks/red_candle_lit"
+         ]
+      },
+      "red_candle_carried" : {
+         "textures" : "textures/items/red_candle"
+      },
+      "white_candle" : {
+         "textures" : [
+            "textures/blocks/white_candle",
+            "textures/blocks/white_candle_lit"
+         ]
+      },
+      "white_candle_carried" : {
+         "textures" : "textures/items/white_candle"
+      },
+      "yellow_candle" : {
+         "textures" : [
+            "textures/blocks/yellow_candle",
+            "textures/blocks/yellow_candle_lit"
+         ]
+      },
+      "yellow_candle_carried" : {
+         "textures" : "textures/items/yellow_candle"
       }
    },
    "texture_name" : "atlas.terrain"
