@@ -3,15 +3,15 @@
     "header": {
         "name": "IBXGravelPack",
         "description": "'Definitely the coolest pack!' - Your mum",
-        "uuid": "deaddead-2975-4d2a-9ba1-424baff3a035",
-        "version": [1, 17, 0],
-        "min_engine_version": [ 1, 17, 0 ]
+        "uuid": "feeeeeee-2975-4d2a-9ba1-424baff3a035",
+        "version": [1, 18, 0],
+        "min_engine_version": [ 1, 18, 0 ]
     },
     "modules": [
         {
             "type": "resources",
-            "uuid": "deaddead-81be-46b6-867b-2b73937ed3a4",
-            "version": [1, 17, 0]
+            "uuid": "feeeeeee-81be-46b6-867b-2b73937ed3a4",
+            "version": [1, 18, 0]
         }
     ]
 }
