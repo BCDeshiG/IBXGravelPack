@@ -3473,5 +3473,44 @@
 	"yellow_glazed_terracotta": {
 		"sound": "gravel",
 		"textures": "yellow_glazed_terracotta"
+	},
+	"sculk_sensor": {
+		"textures": {
+			"up": "sculk_sensor_top",
+			"down": "sculk_sensor_bottom",
+			"side": "sculk_sensor_side"
+		},
+		"carried_textures": {
+			"up": "sculk_sensor_tendril_inactive",
+			"down": "sculk_sensor_tendril_inactive",
+			"side": "sculk_sensor_tendril_active"
+		},
+		"sound": "gravel"
+	},
+	"sculk": {
+		"isotropic": true,
+		"textures": "sculk",
+		"sound": "sculk"
+	},
+	"sculk_vein": {
+		"textures": "sculk_vein",
+		"sound": "gravel"
+	},
+	"sculk_catalyst": {
+		"textures": {
+			"up": "sculk_catalyst_top",
+			"down": "sculk_catalyst_bottom",
+			"side": "sculk_catalyst_side"
+		},
+		"sound": "gravel"
+	},
+	"sculk_shrieker": {
+		"textures": {
+			"up": "sculk_shrieker_top",
+			"down": "sculk_shrieker_bottom",
+			"side": "sculk_shrieker_side"
+		},
+		"carried_textures": "sculk_shrieker_inner_top",
+		"sound": "gravel"
 	}
 }
