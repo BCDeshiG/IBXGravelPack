@@ -1,0 +1,11 @@
+{
+	"schedule": "monthly",
+	"ignoredFiles": [
+		"glass_white.png",
+		"glass_silver.png",
+		"glass_grey.png",
+		"tropical_a.png",
+		"tropical_b.png"
+	],
+	"minKBReduced": 500
+}
