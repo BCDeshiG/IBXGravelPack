@@ -3474,6 +3474,115 @@
 		"sound": "gravel",
 		"textures": "yellow_glazed_terracotta"
 	},
+	"mangrove_leaves": {
+		"textures": "mangrove_leaves",
+		"carried_textures": "mangrove_leaves_carried",
+		"brightness_gamma": 0.80,
+		"sound": "gravel"
+	},
+	"mangrove_propagule": {
+		"textures": "mangrove_propagule",
+		"carried_textures": "mangrove_propagule_item",
+		"sound": "gravel"
+	},
+	"mangrove_roots": {
+		"textures": {
+			"up": "mangrove_roots_top",
+			"down": "mangrove_roots_top",
+			"north": "mangrove_roots_side",
+			"south": "mangrove_roots_side",
+			"west": "mangrove_roots_side",
+			"east": "mangrove_roots_side"
+		},
+		"sound": "gravel"
+	},
+	"muddy_mangrove_roots": {
+		"textures": {
+			"up": "muddy_mangrove_roots_top",
+			"down": "muddy_mangrove_roots_top",
+			"north": "muddy_mangrove_roots_side",
+			"south": "muddy_mangrove_roots_side",
+			"west": "muddy_mangrove_roots_side",
+			"east": "muddy_mangrove_roots_side"
+		},
+		"sound": "gravel"
+	},
+	"mangrove_log": {
+		"textures": {
+			"up": "mangrove_log_top",
+			"down": "mangrove_log_top",
+			"side": "mangrove_log_side"
+		},
+		"sound": "gravel"
+	},
+	"stripped_mangrove_log": {
+		"textures": {
+			"up": "stripped_mangrove_log_top",
+			"down": "stripped_mangrove_log_top",
+			"side": "stripped_mangrove_log_side"
+		},
+		"sound": "gravel"
+	},
+	"mangrove_planks": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_button": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_stairs": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_slab": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_pressure_plate": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_fence": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_fence_gate": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
+	"mangrove_door": {
+		"textures": {
+			"up": "mangrove_door_bottom",
+			"down": "mangrove_door_bottom",
+			"side": "mangrove_door_top"
+		},
+		"sound": "gravel"
+	},
+	"mangrove_standing_sign": {
+		"textures": "mangrove_sign",
+		"sound": "gravel"
+	},
+	"mangrove_wall_sign": {
+		"textures": "mangrove_sign",
+		"sound": "gravel"
+	},
+	"mangrove_trapdoor": {
+		"textures": "mangrove_trapdoor",
+		"sound": "gravel"
+	},
+	"mangrove_wood": {
+		"textures": "mangrove_log_side",
+		"sound": "gravel"
+	},
+	"stripped_mangrove_wood": {
+		"textures": "stripped_mangrove_log_side",
+		"sound": "gravel"
+	},
+	"mangrove_double_slab": {
+		"textures": "mangrove_planks",
+		"sound": "gravel"
+	},
 	"sculk_sensor": {
 		"textures": {
 			"up": "sculk_sensor_top",
@@ -3490,7 +3599,7 @@
 	"sculk": {
 		"isotropic": true,
 		"textures": "sculk",
-		"sound": "sculk"
+		"sound": "gravel"
 	},
 	"sculk_vein": {
 		"textures": "sculk_vein",
@@ -3511,6 +3620,74 @@
 			"side": "sculk_shrieker_side"
 		},
 		"carried_textures": "sculk_shrieker_inner_top",
+		"sound": "gravel"
+	},
+	"frog_spawn": {
+		"textures": "frog_spawn",
+		"sound": "gravel"
+	},
+	"pearlescent_froglight": {
+		"textures": {
+			"up": "pearlescent_froglight_top",
+			"down": "pearlescent_froglight_top",
+			"side": "pearlescent_froglight_side"
+		},
+		"sound": "gravel"
+	},
+	"verdant_froglight": {
+		"textures": {
+			"up": "verdant_froglight_top",
+			"down": "verdant_froglight_top",
+			"side": "verdant_froglight_side"
+		},
+		"sound": "gravel"
+	},
+	"ochre_froglight": {
+		"textures": {
+			"up": "ochre_froglight_top",
+			"down": "ochre_froglight_top",
+			"side": "ochre_froglight_side"
+		},
+		"sound": "gravel"
+	},
+	"mud": {
+		"textures": "mud",
+		"sound": "gravel"
+	},
+	"packed_mud": {
+		"textures": "packed_mud",
+		"sound": "gravel"
+	},
+	"mud_bricks": {
+		"textures": "mud_bricks",
+		"sound": "gravel"
+	},
+	"mud_brick_slab": {
+		"isotropic": false,
+		"textures": "mud_bricks",
+		"sound": "gravel"
+	},
+	"mud_brick_double_slab": {
+		"isotropic": false,
+		"textures": "mud_bricks",
+		"sound": "gravel"
+	},
+	"mud_brick_stairs": {
+		"isotropic": false,
+		"textures": "mud_bricks",
+		"sound": "gravel"
+	},
+	"mud_brick_wall": {
+		"isotropic": false,
+		"textures": "mud_bricks",
+		"sound": "gravel"
+	},
+	"reinforced_deepslate": {
+		"textures": {
+			"up": "reinforced_deepslate_top",
+			"down": "reinforced_deepslate_bottom",
+			"side": "reinforced_deepslate_side"
+		},
 		"sound": "gravel"
 	}
 }
