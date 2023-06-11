@@ -3689,5 +3689,308 @@
 			"side": "reinforced_deepslate_side"
 		},
 		"sound": "gravel"
-	}
+	},
+	"pitcher_crop": {
+		"textures": {
+		  "up": "pitcher_crop_top",
+		  "down": "pitcher_crop_bottom",
+		  "north": "pitcher_crop_side",
+		  "south": "pitcher_crop_lower_flower",
+		  "west": "pitcher_crop_upper_flower",
+		  "east": "pitcher_crop_upper_flower"
+		},
+		"sound": "gravel"
+	  },
+	  "pitcher_plant": {
+		"textures": {
+		  "up": "pitcher_plant_top",
+		  "down": "pitcher_plant_bottom",
+		  "side": "pitcher_plant_bottom"
+		},
+		"sound": "gravel",
+		"carried_textures": "pitcher_plant_carried"
+	  },
+	  "torchflower_crop": {
+		"textures": "torchflower_crop",
+		"sound": "gravel"
+	  },
+	  "torchflower": {
+		"textures": "torchflower",
+		"sound": "gravel"
+	  },
+	  "sniffer_egg": {
+		"textures": {
+		  "up": "sniffer_egg_top",
+		  "down": "sniffer_egg_bottom",
+		  "north": "sniffer_egg_north",
+		  "south": "sniffer_egg_south",
+		  "east": "sniffer_egg_east",
+		  "west": "sniffer_egg_west"
+		},
+		"carried_textures": "sniffer_egg_carried",
+		"sound": "gravel"
+	  },
+	  "oak_hanging_sign": {
+		"textures": "sign",
+		"sound": "gravel"
+	  },
+	  "spruce_hanging_sign": {
+		"textures": "spruce_sign",
+		"sound": "gravel"
+	  },
+	  "birch_hanging_sign": {
+		"textures": "birch_sign",
+		"sound": "gravel"
+	  },
+	  "jungle_hanging_sign": {
+		"textures": "jungle_sign",
+		"sound": "gravel"
+	  },
+	  "acacia_hanging_sign": {
+		"textures": "acacia_sign",
+		"sound": "gravel"
+	  },
+	  "dark_oak_hanging_sign": {
+		"textures": "darkoak_sign",
+		"sound": "gravel"
+	  },
+	  "crimson_hanging_sign": {
+		"textures": "crimson_sign",
+		"sound": "gravel"
+	  },
+	  "warped_hanging_sign": {
+		"textures": "warped_sign",
+		"sound": "gravel"
+	  },
+	  "mangrove_hanging_sign": {
+		"textures": "mangrove_sign",
+		"sound": "gravel"
+	  },
+	  "bamboo_hanging_sign": {
+		"textures": "bamboo_sign",
+		"sound": "gravel"
+	  },
+	  "bamboo_mosaic": {
+		"textures": "bamboo_mosaic",
+		"sound": "gravel"
+	  },
+	  "bamboo_mosaic_stairs": {
+		"textures": "bamboo_mosaic",
+		"sound": "gravel"
+	  },
+	  "bamboo_mosaic_slab": {
+		"textures": "bamboo_mosaic",
+		"sound": "gravel"
+	  },
+	  "bamboo_mosaic_double_slab": {
+		"textures": "bamboo_mosaic",
+		"sound": "gravel"
+	  },
+	  "bamboo_block": {
+		"textures": {
+		  "up": "bamboo_block_top",
+		  "down": "bamboo_block_top",
+		  "side": "bamboo_block"
+		},
+		"sound": "gravel"
+	  },
+	  "stripped_bamboo_block": {
+		"textures": {
+		  "up": "stripped_bamboo_block_top",
+		  "down": "stripped_bamboo_block_top",
+		  "side": "stripped_bamboo_block"
+		},
+		"sound": "gravel"
+	  },
+	  "bamboo_planks": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "bamboo_button": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "bamboo_stairs": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "bamboo_slab": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "bamboo_pressure_plate": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "bamboo_fence": {
+		"textures": "bamboo_fence",
+		"sound": "gravel"
+	  },
+	  "bamboo_fence_gate": {
+		"textures": "bamboo_fence_gate",
+		"sound": "gravel"
+	  },
+	  "bamboo_door": {
+		"textures": {
+		  "up": "bamboo_door_bottom",
+		  "down": "bamboo_door_bottom",
+		  "side": "bamboo_door_top"
+		},
+		"sound": "gravel"
+	  },
+	  "bamboo_standing_sign": {
+		"textures": "bamboo_sign",
+		"sound": "gravel"
+	  },
+	  "bamboo_wall_sign": {
+		"textures": "bamboo_sign",
+		"sound": "gravel"
+	  },
+	  "bamboo_trapdoor": {
+		"textures": "bamboo_trapdoor",
+		"sound": "gravel"
+	  },
+	  "bamboo_double_slab": {
+		"textures": "bamboo_planks",
+		"sound": "gravel"
+	  },
+	  "chiseled_bookshelf": {
+		"textures": {
+		  "up": "chiseled_bookshelf_top",
+		  "down": "chiseled_bookshelf_top",
+		  "north": "chiseled_bookshelf_front",
+		  "south": "chiseled_bookshelf_side",
+		  "east": "chiseled_bookshelf_side",
+		  "west": "chiseled_bookshelf_side"
+		},
+		"sound": "gravel"
+	  },
+	  "suspicious_sand": {
+		"textures": "suspicious_sand",
+		"sound": "suspicious_gravel"
+	  },
+	  "suspicious_gravel": {
+		"textures": "suspicious_gravel",
+		"sound": "suspicious_gravel"
+	  },
+	  "decorated_pot": {
+		"textures": "decorated_pot",
+		"sound": "gravel"
+	  },
+	  "cherry_button": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_door": {
+		"textures": {
+		  "up": "cherry_door_bottom",
+		  "down": "cherry_door_bottom",
+		  "side": "cherry_door_top"
+		},
+		"sound": "gravel"
+	  },
+	  "cherry_double_slab": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_fence": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_fence_gate": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_hanging_sign": {
+		// This block is drawn as an entity but it still needs a texture for destruction particles.
+		// For block autocomplete lists in commands, this block actually uses its item texture.
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_log": {
+		"textures": {
+		  "up": "cherry_log_top",
+		  "down": "cherry_log_top",
+		  "side": "cherry_log_side"
+		},
+		"sound": "gravel"
+	  },
+	  "cherry_planks": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_pressure_plate": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_slab": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_stairs": {
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_standing_sign": {
+		// This block is drawn as an entity but it still needs a texture for destruction particles and block autocomplete lists in commands.
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_trapdoor": {
+		"textures": "cherry_trapdoor",
+		"sound": "gravel"
+	  },
+	  "cherry_wall_sign": {
+		// This block is drawn as an entity but it still needs a texture for destruction particles and block autocomplete lists in commands.
+		"textures": "cherry_planks",
+		"sound": "gravel"
+	  },
+	  "cherry_wood": {
+		"textures": "cherry_log_side",
+		"sound": "gravel"
+	  },
+	  "stripped_cherry_log": {
+		"textures": {
+		  "up": "stripped_cherry_log_top",
+		  "down": "stripped_cherry_log_top",
+		  "side": "stripped_cherry_log_side"
+		},
+		"sound": "gravel"
+	  },
+	  "stripped_cherry_wood": {
+		"textures": "stripped_cherry_log_side",
+		"sound": "gravel"
+	  },
+	  "cherry_sapling": {
+		"textures": "cherry_sapling",
+		"sound": "gravel"
+	  },
+	  "cherry_leaves": {
+		"textures": "cherry_leaves",
+		"sound": "gravel"
+	  },
+	  "pink_petals": {
+		"textures": "pink_petals",
+		"sound": "gravel",
+		"carried_textures": "pink_petals_carried"
+	  },
+	  "calibrated_sculk_sensor": {
+		"textures": {
+		  "up": "calibrated_sculk_sensor_top",
+		  "down": "sculk_sensor_bottom",
+		  "north": "sculk_sensor_side",
+		  "east": "sculk_sensor_side",
+		  "west": "sculk_sensor_side",
+		  "south": "calibrated_sculk_sensor_input_side"
+		},
+		"carried_textures": {
+		  "up": "sculk_sensor_tendril_inactive",
+		  "down": "sculk_sensor_tendril_inactive",
+		  "east": "sculk_sensor_tendril_active",
+		  "west": "sculk_sensor_tendril_active",
+		  "north": "sculk_sensor_tendril_active",
+		  "south": "calibrated_sculk_sensor_amethyst"
+		},
+		"sound": "gravel"
+	  }
 }
