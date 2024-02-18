@@ -1,0 +1,25 @@
+Warped planks outline too uniformly dark
+Stripped Oak needs more saturation and less brightness
+Spruce log needs more 'fullness'
+Ensure dark log is distinct from spruce
+Stripped cherry doesn't tile seamlessly enough
+Tuff block variants
+Andesite/Diorite/Granite aren't distinct from regular stone
+Add handle to Mangrove door
+Colour correct Mangrove trapdoor to better match door
+Make Cherry door handle more distinct
+Iron door rework?
+Make nether door handle/patterns stand out more
+Copper block variants
+Prismarine bricks?
+Make smooth stone distinct in line with polished blocks
+Make (red) sandstone variants distinct in line with stone blocks
+Note block/Jukebox need rework
+Furnace top needs to be darkened slightly
+Smoker isn't in line with other utility blocks
+Dispenser/Dropper need faces
+Observer is just new gravel texture
+Loom is just old gravel texture
+Auto-Crafter
+Double check mobs
+Investigate snapshots
