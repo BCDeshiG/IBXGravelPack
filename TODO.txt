@@ -1,7 +1,7 @@
-Stripped Oak needs more saturation and less brightness
 Spruce log needs more 'fullness'
 Ensure dark log is distinct from spruce
 Stripped cherry doesn't tile seamlessly enough
+Phase shift discrepancies with stripped/wood logs
 Tuff block variants
 Andesite/Diorite/Granite aren't distinct from regular stone
 Iron door rework?
@@ -19,3 +19,4 @@ Loom is just old gravel texture
 Auto-Crafter
 Double check mobs
 Investigate snapshots
+/tp 110.3 209.0 -208.0 -90 0
