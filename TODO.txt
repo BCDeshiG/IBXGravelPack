@@ -1,5 +1,3 @@
-Spruce log needs more 'fullness'
-Ensure dark log is distinct from spruce
 Tuff block variants
 Andesite/Diorite/Granite aren't distinct from regular stone
 Iron door rework?
@@ -15,5 +13,8 @@ Observer is just new gravel texture
 Loom is just old gravel texture
 Auto-Crafter
 Double check mobs
+Iron Golem doesn't match Iron texture
+Revise overworld cubemap?
+Revise menu panorama?
 Investigate snapshots
 /tp 110.3 209.0 -208.0 -90 0
