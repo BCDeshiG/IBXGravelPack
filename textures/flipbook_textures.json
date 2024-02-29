@@ -8,5 +8,10 @@
     "flipbook_texture": "textures/blocks/warped_stem_side",
     "atlas_tile": "warped_stem_side",
     "ticks_per_frame": 15
+  },
+  {
+    "flipbook_texture": "textures/blocks/sea_lantern",
+    "atlas_tile": "sea_lantern",
+    "ticks_per_frame": 8
   }
 ]

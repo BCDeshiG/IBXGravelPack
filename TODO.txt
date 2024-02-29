@@ -3,12 +3,8 @@ Andesite/Diorite/Granite aren't distinct from regular stone
 Iron door rework?
 Make nether door handle/patterns stand out more
 Copper block variants
-Prismarine bricks?
-Make smooth stone distinct in line with polished blocks
 Make (red) sandstone variants distinct in line with stone blocks
-Note block/Jukebox need rework
 Smoker isn't in line with other utility blocks
-Dispenser/Dropper need faces
 Observer is just new gravel texture
 Loom is just old gravel texture
 Auto-Crafter
