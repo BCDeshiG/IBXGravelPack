@@ -13,5 +13,15 @@
     "flipbook_texture": "textures/blocks/sea_lantern",
     "atlas_tile": "sea_lantern",
     "ticks_per_frame": 8
+  },
+  {
+    "flipbook_texture": "textures/blocks/lava_still",
+    "atlas_tile": "still_lava",
+    "ticks_per_frame": 32
+  },
+  {
+    "flipbook_texture": "textures/blocks/lava_flow",
+    "atlas_tile": "flowing_lava",
+    "ticks_per_frame": 20
   }
 ]
