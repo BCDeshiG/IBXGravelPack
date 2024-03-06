@@ -4,12 +4,10 @@ Iron door rework?
 Make nether door handle/patterns stand out more
 Copper block variants
 Make (red) sandstone variants distinct in line with stone blocks
-Smoker isn't in line with other utility blocks
-Observer is just new gravel texture
-Loom is just old gravel texture
 Auto-Crafter
 Double check mobs
 Iron Golem doesn't match Iron texture
 Investigate snapshots
+Block sound inconsistencies
 /tp 110.3 209.0 -208.0 -90 0
 /tp @s 80 75 235 0 0
