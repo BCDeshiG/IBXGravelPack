@@ -8,6 +8,7 @@ Auto-Crafter
 Double check mobs
 Iron Golem doesn't match Iron texture
 Investigate snapshots
+Bogged + Breeze
 Block sound inconsistencies
 /tp 110.3 209.0 -208.0 -90 0
 /tp @s 80 75 235 0 0
