@@ -4,7 +4,6 @@ Iron door rework?
 Make nether door handle/patterns stand out more
 Copper block variants
 Make (red) sandstone variants distinct in line with stone blocks
-Auto-Crafter
 Double check mobs
 Iron Golem doesn't match Iron texture
 Investigate snapshots
