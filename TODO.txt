@@ -1,5 +1,4 @@
 Tuff block variants
-Andesite/Diorite/Granite aren't distinct from regular stone
 Iron door rework?
 Make nether door handle/patterns stand out more
 Copper block variants
