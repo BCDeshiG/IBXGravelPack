@@ -1,9 +1,9 @@
-Tuff block variants
 Iron door rework?
 Make nether door handle/patterns stand out more
 Copper block variants
 Make (red) sandstone variants distinct in line with stone blocks
 Double check mobs
+Tweak existing brick variants
 Iron Golem doesn't match Iron texture
 Investigate snapshots
 Bogged + Breeze
